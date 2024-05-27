@@ -1,0 +1,7 @@
+Analysis:
+
+--- Out of 15 total schools analyzed, the highest performing schools are charter schools and the lowest performing schools are district schools. 
+--- Charter Schools had fewer students
+--- While Reading and Math passing percentages were lower in district schools versus charter schools, math scores showed the most significant impact.
+--- As Spending increased percent overall passing decreased
+--- Medium Size Schools had the highest percent overall passing with small schools close behind.  The percent overall passing drastically declined for larger schools.
